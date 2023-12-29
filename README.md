@@ -232,10 +232,6 @@ Go to client folder and execute the following command in console to run the clie
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/DALL-E-MERN-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/DALL-E-MERN-App" />
-</a>
-
 Contributions are always welcome!
 
 See [`contributing.md`](https://contributing.md/) for ways to get started.
